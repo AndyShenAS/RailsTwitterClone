@@ -134,3 +134,48 @@ textarea {
     margin-right: 8px;
   }
 }
+
+a[title] {
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+   height: 50px;
+   width: 100px;
+   padding: 5px;
+   margin: 5px;
+   border-radius:5px;
+}
+
+.gravatar {
+  height: 50px;
+  width: 50px;
+}
+
+body {
+  background-color: #333;
+}
+
+a[data-confirm] {
+  margin-top: 5px;
+}
+
+.profile {
+  background-color: pink;
+  color: #000;
+}
+
+.stats {
+  background-color: pink;
+}
+
+.tweet-box {
+  background-color: pink;
+}
+
+.timeline {
+  background-color: pink;
+}
+
+posted {
+  color: gray;
+}
